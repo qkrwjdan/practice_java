@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CharTypeUnicode",
+            "request": "launch",
+            "mainClass": "CharTypeUnicode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OperatePromotion",
+            "request": "launch",
+            "mainClass": "OperatePromotion"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BlockComment",
             "request": "launch",
             "mainClass": "BlockComment"
