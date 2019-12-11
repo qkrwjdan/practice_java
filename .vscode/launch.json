@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Practice4_2",
+            "request": "launch",
+            "mainClass": "Practice4_2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BitOperator",
+            "request": "launch",
+            "mainClass": "BitOperator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice4_1",
+            "request": "launch",
+            "mainClass": "Practice4_1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SCE",
+            "request": "launch",
+            "mainClass": "SCE"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CompAssignOp",
+            "request": "launch",
+            "mainClass": "CompAssignOp"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UnicodeEscaptes",
+            "request": "launch",
+            "mainClass": "UnicodeEscaptes"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Constants",
+            "request": "launch",
+            "mainClass": "Constants"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CharTypeUnicode",
             "request": "launch",
             "mainClass": "CharTypeUnicode"
