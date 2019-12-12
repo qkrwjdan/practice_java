@@ -2,6 +2,54 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Practice6_3",
+            "request": "launch",
+            "mainClass": "Practice6_3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice6_2",
+            "request": "launch",
+            "mainClass": "Practice6_2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice5_4",
+            "request": "launch",
+            "mainClass": "Practice5_4"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice5_3",
+            "request": "launch",
+            "mainClass": "Practice5_3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SwitchBasic",
+            "request": "launch",
+            "mainClass": "SwitchBasic"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice5_2",
+            "request": "launch",
+            "mainClass": "Practice5_2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CondOp",
+            "request": "launch",
+            "mainClass": "CondOp"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice5_1",
+            "request": "launch",
+            "mainClass": "Practice5_1"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Practice4_2",
             "request": "launch",
             "mainClass": "Practice4_2"
