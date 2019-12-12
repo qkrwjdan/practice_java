@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Practice7_1",
+            "request": "launch",
+            "mainClass": "Practice7_1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BankAccountConstructor",
+            "request": "launch",
+            "mainClass": "BankAccountConstructor"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PassingRef",
+            "request": "launch",
+            "mainClass": "PassingRef"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BankAccountOO",
+            "request": "launch",
+            "mainClass": "BankAccountOO"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Practice6_3",
             "request": "launch",
             "mainClass": "Practice6_3"
