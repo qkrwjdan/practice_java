@@ -2,6 +2,36 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - practice",
+            "request": "launch",
+            "mainClass": "practice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OneClassEncapsulation",
+            "request": "launch",
+            "mainClass": "OneClassEncapsulation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BadEncapsulation",
+            "request": "launch",
+            "mainClass": "BadEncapsulation"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Dog",
+            "request": "launch",
+            "mainClass": "Dog"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UnsafeCircle",
+            "request": "launch",
+            "mainClass": "UnsafeCircle"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Practice7_1",
             "request": "launch",
             "mainClass": "Practice7_1"
