@@ -2,6 +2,102 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Practice2",
+            "request": "launch",
+            "mainClass": "Practice2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReturnStringBuilder",
+            "request": "launch",
+            "mainClass": "ReturnStringBuilder"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice1",
+            "request": "launch",
+            "mainClass": "Practice1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CompString",
+            "request": "launch",
+            "mainClass": "CompString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SubString",
+            "request": "launch",
+            "mainClass": "SubString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringConcat",
+            "request": "launch",
+            "mainClass": "StringConcat"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImmutableString",
+            "request": "launch",
+            "mainClass": "ImmutableString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringInst",
+            "request": "launch",
+            "mainClass": "StringInst"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThisInst",
+            "request": "launch",
+            "mainClass": "ThisInst"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConOverloading",
+            "request": "launch",
+            "mainClass": "ConOverloading"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticImport",
+            "request": "launch",
+            "mainClass": "StaticImport"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DateOfExecution",
+            "request": "launch",
+            "mainClass": "DateOfExecution"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Boad",
+            "request": "launch",
+            "mainClass": "Boad"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UseCalculatorCMVer",
+            "request": "launch",
+            "mainClass": "UseCalculatorCMVer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CircleConstPI",
+            "request": "launch",
+            "mainClass": "CircleConstPI"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClassVar",
+            "request": "launch",
+            "mainClass": "ClassVar"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - practice",
             "request": "launch",
             "mainClass": "practice"
