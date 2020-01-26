@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ReadString",
+            "request": "launch",
+            "mainClass": "ReadString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ScanningKeyboard",
+            "request": "launch",
+            "mainClass": "ScanningKeyboard"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ScannerString",
+            "request": "launch",
+            "mainClass": "ScannerString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AutoCallToString",
+            "request": "launch",
+            "mainClass": "AutoCallToString"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Practice2",
             "request": "launch",
             "mainClass": "Practice2"
