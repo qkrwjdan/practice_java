@@ -1,5 +1,4 @@
-
-public class practice{
+class practice{
     public static void main(String[] args) {
         Point p1 = new Point(3,5);
         Circle c1 = new Circle(p1,10.25);
