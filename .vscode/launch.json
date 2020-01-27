@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MyBusinessMan",
+            "request": "launch",
+            "mainClass": "MyBusinessMan"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice3",
+            "request": "launch",
+            "mainClass": "Practice3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice",
+            "request": "launch",
+            "mainClass": "Practice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnhancedFor",
+            "request": "launch",
+            "mainClass": "EnhancedFor"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayUtils",
+            "request": "launch",
+            "mainClass": "ArrayUtils"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BoxArray",
+            "request": "launch",
+            "mainClass": "BoxArray"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayIsInstance",
+            "request": "launch",
+            "mainClass": "ArrayIsInstance"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ReadString",
             "request": "launch",
             "mainClass": "ReadString"
