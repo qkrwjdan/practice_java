@@ -2,6 +2,42 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Wrapping",
+            "request": "launch",
+            "mainClass": "Wrapping"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - YummyCakeOf",
+            "request": "launch",
+            "mainClass": "YummyCakeOf"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - YummyCakeSize",
+            "request": "launch",
+            "mainClass": "YummyCakeSize"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - YummyCakeSuper",
+            "request": "launch",
+            "mainClass": "YummyCakeSuper"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - YummyCakeOverriding",
+            "request": "launch",
+            "mainClass": "YummyCakeOverriding"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MobileSmartPhone",
+            "request": "launch",
+            "mainClass": "MobileSmartPhone"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SuperCubStatic",
             "request": "launch",
             "mainClass": "SuperCubStatic"
