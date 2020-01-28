@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - OverrideMistake",
+            "request": "launch",
+            "mainClass": "OverrideMistake"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OverridingToString",
+            "request": "launch",
+            "mainClass": "OverridingToString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyFriends",
+            "request": "launch",
+            "mainClass": "MyFriends"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Wrapping",
             "request": "launch",
             "mainClass": "Wrapping"
