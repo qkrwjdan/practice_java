@@ -2,6 +2,54 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TryWithResource",
+            "request": "launch",
+            "mainClass": "TryWithResource"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FinallyCase",
+            "request": "launch",
+            "mainClass": "FinallyCase"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyExceptionClass",
+            "request": "launch",
+            "mainClass": "MyExceptionClass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IOExceptionCase",
+            "request": "launch",
+            "mainClass": "IOExceptionCase"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClassCast",
+            "request": "launch",
+            "mainClass": "ClassCast"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayIndexOutOfBounds",
+            "request": "launch",
+            "mainClass": "ArrayIndexOutOfBounds"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExceptionMessage",
+            "request": "launch",
+            "mainClass": "ExceptionMessage"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExceptionCase",
+            "request": "launch",
+            "mainClass": "ExceptionCase"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - MarkerInterface",
             "request": "launch",
             "mainClass": "MarkerInterface"
