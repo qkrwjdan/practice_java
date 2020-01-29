@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MarkerInterface",
+            "request": "launch",
+            "mainClass": "MarkerInterface"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InstanceOfInterface",
+            "request": "launch",
+            "mainClass": "InstanceOfInterface"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimplePrinter",
+            "request": "launch",
+            "mainClass": "SimplePrinter"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintDriver3",
+            "request": "launch",
+            "mainClass": "PrintDriver3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintDriver2",
+            "request": "launch",
+            "mainClass": "PrintDriver2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintDriver",
+            "request": "launch",
+            "mainClass": "PrintDriver"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintableInterface",
+            "request": "launch",
+            "mainClass": "PrintableInterface"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - OverrideMistake",
             "request": "launch",
             "mainClass": "OverrideMistake"
