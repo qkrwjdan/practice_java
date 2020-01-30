@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - StringEquality",
+            "request": "launch",
+            "mainClass": "StringEquality"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ObjectEquality",
+            "request": "launch",
+            "mainClass": "ObjectEquality"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ObjectFinalize",
+            "request": "launch",
+            "mainClass": "ObjectFinalize"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TryWithResource",
             "request": "launch",
             "mainClass": "TryWithResource"
