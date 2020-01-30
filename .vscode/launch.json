@@ -2,6 +2,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ShallowCopy",
+            "request": "launch",
+            "mainClass": "ShallowCopy"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InstanceCloning",
+            "request": "launch",
+            "mainClass": "InstanceCloning"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InstatnceCloning",
+            "request": "launch",
+            "mainClass": "InstatnceCloning"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - StringEquality",
             "request": "launch",
             "mainClass": "StringEquality"
