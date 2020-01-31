@@ -2,6 +2,132 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ArraySearch",
+            "request": "launch",
+            "mainClass": "ArraySearch"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayObjSort",
+            "request": "launch",
+            "mainClass": "ArrayObjSort"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArraySort",
+            "request": "launch",
+            "mainClass": "ArraySort"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AutoObjEquals",
+            "request": "launch",
+            "mainClass": "AutoObjEquals"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayEquals",
+            "request": "launch",
+            "mainClass": "ArrayEquals"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CopyOfSystem",
+            "request": "launch",
+            "mainClass": "CopyOfSystem"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CopyOfArrays",
+            "request": "launch",
+            "mainClass": "CopyOfArrays"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TokenizeString",
+            "request": "launch",
+            "mainClass": "TokenizeString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice_Rand",
+            "request": "launch",
+            "mainClass": "Practice_Rand"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SeedSetRandom",
+            "request": "launch",
+            "mainClass": "SeedSetRandom"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RandomNumberGenerator",
+            "request": "launch",
+            "mainClass": "RandomNumberGenerator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleMathUse",
+            "request": "launch",
+            "mainClass": "SimpleMathUse"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WowBigDecimal",
+            "request": "launch",
+            "mainClass": "WowBigDecimal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DoubleError",
+            "request": "launch",
+            "mainClass": "DoubleError"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SoBigInteger",
+            "request": "launch",
+            "mainClass": "SoBigInteger"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WrapperClassMethod",
+            "request": "launch",
+            "mainClass": "WrapperClassMethod"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NumberMethod",
+            "request": "launch",
+            "mainClass": "NumberMethod"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AutoBoxingUnboxing2",
+            "request": "launch",
+            "mainClass": "AutoBoxingUnboxing2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AutoBoxingUnboxing",
+            "request": "launch",
+            "mainClass": "AutoBoxingUnboxing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BoxingUnboxing",
+            "request": "launch",
+            "mainClass": "BoxingUnboxing"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UseWrapperClass",
+            "request": "launch",
+            "mainClass": "UseWrapperClass"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ShallowCopy",
             "request": "launch",
             "mainClass": "ShallowCopy"
