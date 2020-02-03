@@ -2,6 +2,144 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - GetableGenericInterface",
+            "request": "launch",
+            "mainClass": "GetableGenericInterface"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Wildcard_Practice2",
+            "request": "launch",
+            "mainClass": "Wildcard_Practice2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BoundedWildcardGenericMethod",
+            "request": "launch",
+            "mainClass": "BoundedWildcardGenericMethod"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Wildcard_Practice",
+            "request": "launch",
+            "mainClass": "Wildcard_Practice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MoveBoxContents",
+            "request": "launch",
+            "mainClass": "MoveBoxContents"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BoundedWildcardBase",
+            "request": "launch",
+            "mainClass": "BoundedWildcardBase"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LowerBoundedWildcard",
+            "request": "launch",
+            "mainClass": "LowerBoundedWildcard"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - WildcardUnboxer",
+            "request": "launch",
+            "mainClass": "WildcardUnboxer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TargetTypes",
+            "request": "launch",
+            "mainClass": "TargetTypes"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Generic_Practice3",
+            "request": "launch",
+            "mainClass": "Generic_Practice3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BoundedGenericMethod",
+            "request": "launch",
+            "mainClass": "BoundedGenericMethod"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GenericMethodBoxMaker2",
+            "request": "launch",
+            "mainClass": "GenericMethodBoxMaker2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GenericMethodBoxMaker",
+            "request": "launch",
+            "mainClass": "GenericMethodBoxMaker"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BoundedInterfaceBox",
+            "request": "launch",
+            "mainClass": "BoundedInterfaceBox"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BoundedBox",
+            "request": "launch",
+            "mainClass": "BoundedBox"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Generic_Practice2",
+            "request": "launch",
+            "mainClass": "Generic_Practice2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Generic_Practice",
+            "request": "launch",
+            "mainClass": "Generic_Practice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BoxInBox",
+            "request": "launch",
+            "mainClass": "BoxInBox"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrimitivesAndGeneric",
+            "request": "launch",
+            "mainClass": "PrimitivesAndGeneric"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MultiTypeParam",
+            "request": "launch",
+            "mainClass": "MultiTypeParam"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FruitAndBox2_Generic",
+            "request": "launch",
+            "mainClass": "FruitAndBox2_Generic"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FruitAndBox2",
+            "request": "launch",
+            "mainClass": "FruitAndBox2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FruitAndBox",
+            "request": "launch",
+            "mainClass": "FruitAndBox"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ArraySearch",
             "request": "launch",
             "mainClass": "ArraySearch"
