@@ -2,6 +2,96 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ConvertCollection",
+            "request": "launch",
+            "mainClass": "ConvertCollection"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeSet_Practice",
+            "request": "launch",
+            "mainClass": "TreeSet_Practice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComparatorPerson",
+            "request": "launch",
+            "mainClass": "ComparatorPerson"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComparablePerson",
+            "request": "launch",
+            "mainClass": "ComparablePerson"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortedTreeSet",
+            "request": "launch",
+            "mainClass": "SortedTreeSet"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashCode_Practice",
+            "request": "launch",
+            "mainClass": "HashCode_Practice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hi",
+            "request": "launch",
+            "mainClass": "hi"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HowHashCode",
+            "request": "launch",
+            "mainClass": "HowHashCode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashSetEqualityOne",
+            "request": "launch",
+            "mainClass": "HashSetEqualityOne"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SetCollectionFeature",
+            "request": "launch",
+            "mainClass": "SetCollectionFeature"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListIteratorCollection",
+            "request": "launch",
+            "mainClass": "ListIteratorCollection"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConversionCollection",
+            "request": "launch",
+            "mainClass": "ConversionCollection"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AsListCollection",
+            "request": "launch",
+            "mainClass": "AsListCollection"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IteratorCollection",
+            "request": "launch",
+            "mainClass": "IteratorCollection"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListCollections",
+            "request": "launch",
+            "mainClass": "ListCollections"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - GetableGenericInterface",
             "request": "launch",
             "mainClass": "GetableGenericInterface"
