@@ -2,6 +2,42 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TreeMapIteration",
+            "request": "launch",
+            "mainClass": "TreeMapIteration"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashMapIteration",
+            "request": "launch",
+            "mainClass": "HashMapIteration"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashMapCollection",
+            "request": "launch",
+            "mainClass": "HashMapCollection"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DefineStack",
+            "request": "launch",
+            "mainClass": "DefineStack"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayDequeCollection",
+            "request": "launch",
+            "mainClass": "ArrayDequeCollection"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedListQueue",
+            "request": "launch",
+            "mainClass": "LinkedListQueue"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ConvertCollection",
             "request": "launch",
             "mainClass": "ConvertCollection"
