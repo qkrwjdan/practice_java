@@ -2,6 +2,36 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CopyList",
+            "request": "launch",
+            "mainClass": "CopyList"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringComparator",
+            "request": "launch",
+            "mainClass": "StringComparator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringBinarySearch",
+            "request": "launch",
+            "mainClass": "StringBinarySearch"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CarSortCollections",
+            "request": "launch",
+            "mainClass": "CarSortCollections"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortCollections",
+            "request": "launch",
+            "mainClass": "SortCollections"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - TreeMapIteration",
             "request": "launch",
             "mainClass": "TreeMapIteration"
