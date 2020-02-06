@@ -2,6 +2,42 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Lambda1",
+            "request": "launch",
+            "mainClass": "Lambda1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AnonymousComparator",
+            "request": "launch",
+            "mainClass": "AnonymousComparator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortComparator",
+            "request": "launch",
+            "mainClass": "SortComparator"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - UseAnonymousInner",
+            "request": "launch",
+            "mainClass": "UseAnonymousInner"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MemberInner",
+            "request": "launch",
+            "mainClass": "MemberInner"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StaticNested",
+            "request": "launch",
+            "mainClass": "StaticNested"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FallThroughWarnings",
             "request": "launch",
             "mainClass": "FallThroughWarnings"
