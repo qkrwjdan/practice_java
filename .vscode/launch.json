@@ -2,6 +2,66 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - FallThroughWarnings",
+            "request": "launch",
+            "mainClass": "FallThroughWarnings"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AtDeprecated",
+            "request": "launch",
+            "mainClass": "AtDeprecated"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Varargs",
+            "request": "launch",
+            "mainClass": "Varargs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnumConstructor",
+            "request": "launch",
+            "mainClass": "EnumConstructor"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EnumConst",
+            "request": "launch",
+            "mainClass": "EnumConst"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InClassInst",
+            "request": "launch",
+            "mainClass": "InClassInst"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InnerEnum",
+            "request": "launch",
+            "mainClass": "InnerEnum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SafeEnum",
+            "request": "launch",
+            "mainClass": "SafeEnum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleEnum",
+            "request": "launch",
+            "mainClass": "SimpleEnum"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InterfaceBaseConst",
+            "request": "launch",
+            "mainClass": "InterfaceBaseConst"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CopyList",
             "request": "launch",
             "mainClass": "CopyList"
