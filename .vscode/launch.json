@@ -2,6 +2,114 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RemoveIfDemo",
+            "request": "launch",
+            "mainClass": "RemoveIfDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DoubleUnaryOperatorDemo",
+            "request": "launch",
+            "mainClass": "DoubleUnaryOperatorDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FunctionDemo",
+            "request": "launch",
+            "mainClass": "FunctionDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ObjIntConsumerDemo",
+            "request": "launch",
+            "mainClass": "ObjIntConsumerDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConsumerDemo",
+            "request": "launch",
+            "mainClass": "ConsumerDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntSupplierDemo",
+            "request": "launch",
+            "mainClass": "IntSupplierDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SupplierDemo",
+            "request": "launch",
+            "mainClass": "SupplierDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LambdaBiPredicate",
+            "request": "launch",
+            "mainClass": "LambdaBiPredicate"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntPredicateDemo",
+            "request": "launch",
+            "mainClass": "IntPredicateDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LambdaPractice2",
+            "request": "launch",
+            "mainClass": "LambdaPractice2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PredictDemo",
+            "request": "launch",
+            "mainClass": "PredictDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LambdaPractice",
+            "request": "launch",
+            "mainClass": "LambdaPractice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LambdaGeneric",
+            "request": "launch",
+            "mainClass": "LambdaGeneric"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NoParamAndReturn",
+            "request": "launch",
+            "mainClass": "NoParamAndReturn"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TwoParamAndReturn",
+            "request": "launch",
+            "mainClass": "TwoParamAndReturn"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TwoParamNoReturn",
+            "request": "launch",
+            "mainClass": "TwoParamNoReturn"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OneParamNoReturn",
+            "request": "launch",
+            "mainClass": "OneParamNoReturn"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SLenComparator",
+            "request": "launch",
+            "mainClass": "SLenComparator"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Lambda1",
             "request": "launch",
             "mainClass": "Lambda1"
