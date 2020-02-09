@@ -2,6 +2,108 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - OptionalBase",
+            "request": "launch",
+            "mainClass": "OptionalBase"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NullPointerCaseStudy3",
+            "request": "launch",
+            "mainClass": "NullPointerCaseStudy3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FlatMapElseOptional",
+            "request": "launch",
+            "mainClass": "FlatMapElseOptional"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OptionalFlatMap",
+            "request": "launch",
+            "mainClass": "OptionalFlatMap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NullPointerCaseStudy",
+            "request": "launch",
+            "mainClass": "NullPointerCaseStudy"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MapElseOptional",
+            "request": "launch",
+            "mainClass": "MapElseOptional"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OptionalOrElse",
+            "request": "launch",
+            "mainClass": "OptionalOrElse"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OptionalMap",
+            "request": "launch",
+            "mainClass": "OptionalMap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringOptional2",
+            "request": "launch",
+            "mainClass": "StringOptional2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringOptional1",
+            "request": "launch",
+            "mainClass": "StringOptional1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MethodRefPractice2",
+            "request": "launch",
+            "mainClass": "MethodRefPractice2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringMaker",
+            "request": "launch",
+            "mainClass": "StringMaker"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MethodRefPractice",
+            "request": "launch",
+            "mainClass": "MethodRefPractice"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NoObjectMethodRef",
+            "request": "launch",
+            "mainClass": "NoObjectMethodRef"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ForEachDemo",
+            "request": "launch",
+            "mainClass": "ForEachDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrangeList3",
+            "request": "launch",
+            "mainClass": "ArrangeList3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrangeList",
+            "request": "launch",
+            "mainClass": "ArrangeList"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RemoveIfDemo",
             "request": "launch",
             "mainClass": "RemoveIfDemo"
