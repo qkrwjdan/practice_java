@@ -2,6 +2,78 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ReduceParallelStream",
+            "request": "launch",
+            "mainClass": "ReduceParallelStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ReduceStream",
+            "request": "launch",
+            "mainClass": "ReduceStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StreamPractice2",
+            "request": "launch",
+            "mainClass": "StreamPractice2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StreamPractice1",
+            "request": "launch",
+            "mainClass": "StreamPractice1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ToyStream",
+            "request": "launch",
+            "mainClass": "ToyStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MapToInt",
+            "request": "launch",
+            "mainClass": "MapToInt"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FilterStream",
+            "request": "launch",
+            "mainClass": "FilterStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ListStream",
+            "request": "launch",
+            "mainClass": "ListStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DoubleStream",
+            "request": "launch",
+            "mainClass": "DoubleStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringStream2",
+            "request": "launch",
+            "mainClass": "StringStream2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringStream",
+            "request": "launch",
+            "mainClass": "StringStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyFirstStream",
+            "request": "launch",
+            "mainClass": "MyFirstStream"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - OptionalBase",
             "request": "launch",
             "mainClass": "OptionalBase"
