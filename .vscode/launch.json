@@ -2,6 +2,78 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CollectStringStream",
+            "request": "launch",
+            "mainClass": "CollectStringStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GradeAverage90",
+            "request": "launch",
+            "mainClass": "GradeAverage90"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MatchStream",
+            "request": "launch",
+            "mainClass": "MatchStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - OpIntStream",
+            "request": "launch",
+            "mainClass": "OpIntStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LazyOpStream",
+            "request": "launch",
+            "mainClass": "LazyOpStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrimitiveSortedStream",
+            "request": "launch",
+            "mainClass": "PrimitiveSortedStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InstSortedStream",
+            "request": "launch",
+            "mainClass": "InstSortedStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GradeAverage",
+            "request": "launch",
+            "mainClass": "GradeAverage"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FlatMapStream",
+            "request": "launch",
+            "mainClass": "FlatMapStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConcateStringStream",
+            "request": "launch",
+            "mainClass": "ConcateStringStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreateIntStream",
+            "request": "launch",
+            "mainClass": "CreateIntStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StreamOfStream",
+            "request": "launch",
+            "mainClass": "StreamOfStream"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ReduceParallelStream",
             "request": "launch",
             "mainClass": "ReduceParallelStream"
