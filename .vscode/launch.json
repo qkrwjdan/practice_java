@@ -2,6 +2,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DateTimeFormatterDemo",
+            "request": "launch",
+            "mainClass": "DateTimeFormatterDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ZoneDateTimeDemo",
+            "request": "launch",
+            "mainClass": "ZoneDateTimeDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ZonedDateTimeDemo1",
+            "request": "launch",
+            "mainClass": "ZonedDateTimeDemo1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ZoneIdDemo2",
+            "request": "launch",
+            "mainClass": "ZoneIdDemo2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ZoneIdDemo",
+            "request": "launch",
+            "mainClass": "ZoneIdDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LocalDateTime2",
+            "request": "launch",
+            "mainClass": "LocalDateTime2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LocalDateTimeDemo1",
+            "request": "launch",
+            "mainClass": "LocalDateTimeDemo1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LocalDateTime",
+            "request": "launch",
+            "mainClass": "LocalDateTime"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LocalTimeDate2",
+            "request": "launch",
+            "mainClass": "LocalTimeDate2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LocalTimeDemo1",
+            "request": "launch",
+            "mainClass": "LocalTimeDemo1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LocalDateDemo2",
+            "request": "launch",
+            "mainClass": "LocalDateDemo2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LocalDateDemo",
+            "request": "launch",
+            "mainClass": "LocalDateDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HowLongSequential",
+            "request": "launch",
+            "mainClass": "HowLongSequential"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InstantDemo",
+            "request": "launch",
+            "mainClass": "InstantDemo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CollectStringStream",
             "request": "launch",
             "mainClass": "CollectStringStream"
