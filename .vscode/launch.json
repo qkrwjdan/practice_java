@@ -2,6 +2,78 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ObjectOutput",
+            "request": "launch",
+            "mainClass": "ObjectOutput"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringReader",
+            "request": "launch",
+            "mainClass": "StringReader"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringWriter",
+            "request": "launch",
+            "mainClass": "StringWriter"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TextReader",
+            "request": "launch",
+            "mainClass": "TextReader"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClassWriter",
+            "request": "launch",
+            "mainClass": "ClassWriter"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BufferedDataOutputStream",
+            "request": "launch",
+            "mainClass": "BufferedDataOutputStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DataFilterInputStream",
+            "request": "launch",
+            "mainClass": "DataFilterInputStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DataFilterOutputStream",
+            "request": "launch",
+            "mainClass": "DataFilterOutputStream"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BytesFileCopier",
+            "request": "launch",
+            "mainClass": "BytesFileCopier"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Read7FromFile3",
+            "request": "launch",
+            "mainClass": "Read7FromFile3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Read7FromFile",
+            "request": "launch",
+            "mainClass": "Read7FromFile"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Write7ToFile",
+            "request": "launch",
+            "mainClass": "Write7ToFile"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - DateTimeFormatterDemo",
             "request": "launch",
             "mainClass": "DateTimeFormatterDemo"
