@@ -2,6 +2,72 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BufferPositionCheck",
+            "request": "launch",
+            "mainClass": "BufferPositionCheck"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fileRandomAccess",
+            "request": "launch",
+            "mainClass": "fileRandomAccess"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FileCopierVerNIO",
+            "request": "launch",
+            "mainClass": "FileCopierVerNIO"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringWriterNewYear",
+            "request": "launch",
+            "mainClass": "StringWriterNewYear"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DataFilterOutputStreamNewVer",
+            "request": "launch",
+            "mainClass": "DataFilterOutputStreamNewVer"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CopyFileFromFile",
+            "request": "launch",
+            "mainClass": "CopyFileFromFile"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleTxtWriteRead",
+            "request": "launch",
+            "mainClass": "SimpleTxtWriteRead"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SimpleBinWriteRead",
+            "request": "launch",
+            "mainClass": "SimpleBinWriteRead"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MakeFileAndDir",
+            "request": "launch",
+            "mainClass": "MakeFileAndDir"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CurrentDir",
+            "request": "launch",
+            "mainClass": "CurrentDir"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PathDemo",
+            "request": "launch",
+            "mainClass": "PathDemo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ObjectOutput",
             "request": "launch",
             "mainClass": "ObjectOutput"
