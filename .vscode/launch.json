@@ -2,6 +2,72 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SyncArrayList",
+            "request": "launch",
+            "mainClass": "SyncArrayList"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MutualAccessReentrantLock",
+            "request": "launch",
+            "mainClass": "MutualAccessReentrantLock"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CallableDemo",
+            "request": "launch",
+            "mainClass": "CallableDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ExecutorsDemo",
+            "request": "launch",
+            "mainClass": "ExecutorsDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MutualAccess",
+            "request": "launch",
+            "mainClass": "MutualAccess"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadMultiNoSleepDemo",
+            "request": "launch",
+            "mainClass": "ThreadMultiNoSleepDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MakeThreadDemo2",
+            "request": "launch",
+            "mainClass": "MakeThreadDemo2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MakeThreadMultiDemo",
+            "request": "launch",
+            "mainClass": "MakeThreadMultiDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MakeThreadDemo",
+            "request": "launch",
+            "mainClass": "MakeThreadDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CurrentTreadName",
+            "request": "launch",
+            "mainClass": "CurrentTreadName"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - newfuke",
+            "request": "launch",
+            "mainClass": "newfuke"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BufferPositionCheck",
             "request": "launch",
             "mainClass": "BufferPositionCheck"
